@@ -6,7 +6,7 @@ require (
 	github.com/go-openapi/spec v0.18.0 // indirect
 	github.com/go-openapi/swag v0.18.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/labstack/echo/v4 v4.0.0
+	github.com/labstack/echo v4.0.0
 	github.com/mattn/go-colorable v0.1.0 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/stretchr/testify v1.3.0
